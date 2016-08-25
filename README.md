@@ -18,3 +18,5 @@ Pseudocódigo para el calculo del sueldo semanal de una persona mediante JavaScr
 6. Multiplicar horas y pago por hora.
 7. Imprimir resultado.
 8. FIN
+
+![alt](http://i68.tinypic.com/xcmxbc.jpg)
